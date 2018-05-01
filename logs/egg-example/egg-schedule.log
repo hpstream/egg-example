@@ -1,0 +1,10 @@
+2018-05-01 09:59:06,245 INFO 3774 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-02 00:00:00.000
+2018-05-01 09:59:06,246 INFO 3774 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-02 00:00:01.000
+2018-05-01 10:06:22,463 INFO 3823 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-02 00:00:00.000
+2018-05-01 10:06:22,463 INFO 3823 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-02 00:00:01.000
+2018-05-01 10:51:21,078 INFO 3911 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-02 00:00:00.000
+2018-05-01 10:51:21,078 INFO 3911 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-02 00:00:01.000
+2018-05-01 11:03:43,011 INFO 3970 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-02 00:00:00.000
+2018-05-01 11:03:43,011 INFO 3970 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-02 00:00:01.000
+2018-05-01 11:44:10,271 INFO 4113 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-02 00:00:00.000
+2018-05-01 11:44:10,272 INFO 4113 [Timer] /Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-02 00:00:01.000

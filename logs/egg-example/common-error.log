@@ -1,0 +1,409 @@
+2018-05-01 09:59:16,304 ERROR 3775 [-/127.0.0.1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:34:12
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:43:18)
+    at session (/Users/hpstream/code/egg-example/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+
+pid: 3775
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 09:59:16,357 ERROR 3775 [-/127.0.0.1/-/0ms GET /robots.txt] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:34:12
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:43:18)
+    at session (/Users/hpstream/code/egg-example/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+
+pid: 3775
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 10:03:47,588 ERROR 3795 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:34:12
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:43:18)
+    at session (/Users/hpstream/code/egg-example/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+
+pid: 3795
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 10:05:09,868 ERROR 3795 [-/127.0.0.1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:34:12
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:43:18)
+    at session (/Users/hpstream/code/egg-example/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+
+pid: 3795
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 10:06:35,328 ERROR 3824 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:34:12
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@4.0.0@koa-compose/index.js:43:18)
+    at session (/Users/hpstream/code/egg-example/node_modules/_koa-session@5.8.1@koa-session/index.js:41:13)
+
+pid: 3824
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 11:49:15,465 ERROR 4130 [-/127.0.0.1/-/6ms GET /index.html] nodejs.ReferenceError: fs is not defined
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:9:31)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 4130
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 11:49:54,783 ERROR 4131 [-/127.0.0.1/-/5ms GET /index.html] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/hpstream/code/egg-example/app/public/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/hpstream/code/egg-example/app/public/index.html'
+name: 'ENOENTError'
+pid: 4131
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 11:51:25,761 ERROR 4156 [-/127.0.0.1/-/5ms GET /index.html] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/hpstream/code/egg-example/view/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/hpstream/code/egg-example/view/index.html'
+name: 'ENOENTError'
+pid: 4156
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 12:10:48,677 ERROR 4113 nodejs.ClusterClientNoResponseError: client no response in 356872ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/hpstream/code/egg-example/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: 'ClusterClientNoResponseError'
+pid: 4113
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 14:33:07,006 ERROR 4113 nodejs.ClusterClientNoResponseError: client no response in 8538325ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/hpstream/code/egg-example/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: 'ClusterClientNoResponseError'
+pid: 4113
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 14:34:55,215 ERROR 4251 [-/127.0.0.1/-/15ms GET /index.html] nodejs.ENOENTError: ENOENT: no such file or directory, open '/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/index.html'
+name: 'ENOENTError'
+pid: 4251
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 14:35:06,853 ERROR 4251 [-/127.0.0.1/-/2ms GET /index.html] nodejs.ENOENTError: ENOENT: no such file or directory, open '/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/index.html'
+name: 'ENOENTError'
+pid: 4251
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 14:36:05,187 ERROR 4254 [-/127.0.0.1/-/6ms GET /index.html] nodejs.ENOENTError: ENOENT: no such file or directory, open '/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:11:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/index.html'
+name: 'ENOENTError'
+pid: 4254
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 14:39:32,510 ERROR 4283 [-/127.0.0.1/-/6ms GET /index.html] nodejs.ENOENTError: ENOENT: no such file or directory, open '/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/index.html'
+name: 'ENOENTError'
+pid: 4283
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 15:33:25,129 ERROR 4550 [-/127.0.0.1/-/6ms GET /index] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/view/index'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: 'app/view/index'
+name: 'ENOENTError'
+pid: 4550
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 15:33:29,715 ERROR 4550 [-/127.0.0.1/-/1ms GET /index] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/view/index'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: 'app/view/index'
+name: 'ENOENTError'
+pid: 4550
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 15:47:28,337 ERROR 4588 [-/127.0.0.1/-/6ms GET /index] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/hpstream/code/egg-example/app/public/index'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/hpstream/code/egg-example/app/public/index'
+name: 'ENOENTError'
+pid: 4588
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 15:49:44,292 ERROR 4597 [-/127.0.0.1/-/1ms GET /index] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/hpstream/code/egg-example/app/public/index'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/hpstream/code/egg-example/app/public/index'
+name: 'ENOENTError'
+pid: 4597
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 15:50:24,975 ERROR 4621 [-/127.0.0.1/-/7ms GET /index] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/hpstream/code/egg-example/app/public/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/hpstream/code/egg-example/app/public/index.html'
+name: 'ENOENTError'
+pid: 4621
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 15:50:27,248 ERROR 4621 [-/127.0.0.1/-/1ms GET /index] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/hpstream/code/egg-example/app/public/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/hpstream/code/egg-example/app/public/index.html'
+name: 'ENOENTError'
+pid: 4621
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 15:50:29,248 ERROR 4621 [-/127.0.0.1/-/0ms GET /index] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/hpstream/code/egg-example/app/public/index.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at pageViewController.index (/Users/hpstream/code/egg-example/app/controller/pageView.js:10:34)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/hpstream/code/egg-example/node_modules/_egg-core@4.7.1@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hpstream/code/egg-example/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hpstream/code/egg-example/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/hpstream/code/egg-example/app/public/index.html'
+name: 'ENOENTError'
+pid: 4621
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 16:38:27,378 ERROR 4113 nodejs.ClusterClientNoResponseError: client no response in 2563123ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/hpstream/code/egg-example/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: 'ClusterClientNoResponseError'
+pid: 4113
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 17:17:20,483 ERROR 4113 nodejs.ClusterClientNoResponseError: client no response in 2273076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/hpstream/code/egg-example/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: 'ClusterClientNoResponseError'
+pid: 4113
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 17:48:15,550 ERROR 4113 nodejs.ClusterClientNoResponseError: client no response in 1815049ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/hpstream/code/egg-example/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: 'ClusterClientNoResponseError'
+pid: 4113
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 18:59:00,513 ERROR 4113 nodejs.ClusterClientNoResponseError: client no response in 4204938ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/hpstream/code/egg-example/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: 'ClusterClientNoResponseError'
+pid: 4113
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 20:59:57,563 ERROR 4113 nodejs.ClusterClientNoResponseError: client no response in 7217034ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/hpstream/code/egg-example/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: 'ClusterClientNoResponseError'
+pid: 4113
+hostname: huangpengdeMacBook-Pro.local
+
+2018-05-01 21:05:18,363 ERROR 4113 nodejs.ClusterClientNoResponseError: client no response in 280783ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/hpstream/code/egg-example/node_modules/_cluster-client@2.1.0@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: 'ClusterClientNoResponseError'
+pid: 4113
+hostname: huangpengdeMacBook-Pro.local
+

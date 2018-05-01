@@ -1,0 +1,245 @@
+{
+  "keys": "/Users/hpstream/code/egg-example/config/config.default.js",
+  "static": {
+    "prefix": "/Users/hpstream/code/egg-example/config/config.default.js",
+    "dir": "/Users/hpstream/code/egg-example/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "dynamic": "/Users/hpstream/code/egg-example/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "preload": "/Users/hpstream/code/egg-example/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "buffer": "/Users/hpstream/code/egg-example/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/hpstream/code/egg-example/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/hpstream/code/egg-example/config/config.default.js",
+    "cache": "/Users/hpstream/code/egg-example/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/hpstream/code/egg-example/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/hpstream/code/egg-example/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "mapping": "/Users/hpstream/code/egg-example/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/hpstream/code/egg-example/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/hpstream/code/egg-example/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/hpstream/code/egg-example/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/hpstream/code/egg-example/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/hpstream/code/egg-example/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "useSession": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "cookieName": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "sessionName": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "headerName": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "bodyName": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "queryName": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.local.js",
+      "maxAge": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "policy": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "checkAddress": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/hpstream/code/egg-example/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/hpstream/code/egg-example/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/hpstream/code/egg-example/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/hpstream/code/egg-example/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/hpstream/code/egg-example/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/hpstream/code/egg-example/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/hpstream/code/egg-example/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "dirs": "/Users/hpstream/code/egg-example/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "queryField": "/Users/hpstream/code/egg-example/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/hpstream/code/egg-example/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/hpstream/code/egg-example/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/hpstream/code/egg-example/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/hpstream/code/egg-example/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
+      "development": "/Users/hpstream/code/egg-example/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "files": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/hpstream/code/egg-example/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/hpstream/code/egg-example/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/hpstream/code/egg-example/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "fastReady": "/Users/hpstream/code/egg-example/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/hpstream/code/egg-example/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/hpstream/code/egg-example/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/hpstream/code/egg-example/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js",
+      "file": "/Users/hpstream/code/egg-example/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/hpstream/code/egg-example/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+  },
+  "env": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "name": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "proxy": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "protocolHeaders": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "ipHeaders": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "hostHeaders": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "version": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "description": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "main": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "dev": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+    },
+    "author": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "license": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "HOME": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "rundir": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "notFound": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "sitefile": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "middlewares": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "httpClient": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "encoding": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "formLimit": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "jsonLimit": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "strict": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "depth": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "parameterLimit": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "encoding": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "env": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "level": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "consoleLevel": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "outputJSON": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "buffer": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "appLogName": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "coreLogName": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "agentLogName": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "errorLogName": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "maxSockets": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "maxSockets": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+    "logging": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "port": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js",
+      "hostname": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/hpstream/code/egg-example/node_modules/_egg@2.7.1@egg/config/config.default.js"
+}
